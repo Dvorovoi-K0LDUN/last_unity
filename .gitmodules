@@ -1,0 +1,6 @@
+[submodule "git_rep/CATastrophe_PVE"]
+	path = git_rep/CATastrophe_PVE
+	url = https://github.com/PuffPieCompany/CATastrophe_PVE.git
+[submodule "git_rep/First_clicker_cats_mobile"]
+	path = git_rep/First_clicker_cats_mobile
+	url = https://github.com/Dvorovoi-K0LDUN/First_clicker_cats_mobile.git
